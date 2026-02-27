@@ -1,5 +1,5 @@
 import { Email } from '@/types/email'
-import { EmailProvider } from './EmailProvider'
+import { EmailProvider } from '@/lib/providers/EmailProvider'
 import { mockEmails } from '@/data/mockEmails'
 
 let emails = [...mockEmails]
