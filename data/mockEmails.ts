@@ -25,4 +25,13 @@ export const mockEmails: Email[] = [
     date: '2025-01-13',
     read: false,
   },
+
+  {
+    id: '4',
+    from: 'test@gmail.com',
+    subject: 'Lunch Everyday?',
+    body: 'This is a test to see if you would be willing to go to lunch with me every day.',
+    date: '2025-01-28',
+    read: false,
+  },
 ]
